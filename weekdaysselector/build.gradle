@@ -21,7 +21,7 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'com.github.amulyakhare:TextDrawable:1.0.1'
+    implementation 'com.github.amulyakhare:TextDrawable:558677ea31'
 
     implementation 'androidx.legacy:legacy-support-v13:1.0.0'
 }
